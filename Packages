@@ -1,0 +1,15 @@
+Package: com.pillowbear.favoriteext3nder
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: pillowbear <dogerino@outlook.fr>
+Depends: mobilesubstrate
+Filename: debs//com.pillowbear.favoriteext3nder.deb
+Size: 3092
+MD5sum: D4987ECC89F60BE3C5EA24C49F970BF2
+SHA1: 4C0328E0E65B1D1664F55E407EFF8C9A07988E91
+SHA256: 42870F0824B518754F352C3F973A58B59B75F4EB7E20E0F5564349969DE28DC3
+Section: Tweaks
+Description: Up to 150 recently used emojis !
+Author: pillowbear <dogerino@outlook.fr>
+Depiction: http://decimation.github.io/Depic/com.pillowbear.favoriteext3nder/index.html
+Name: FavoriteExt3nder

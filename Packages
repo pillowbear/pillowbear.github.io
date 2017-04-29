@@ -1,15 +1,15 @@
-Package: com.pillowbear.favoriteext3nder
+Package: com.pillowbear.NotSoRecentlyUsed
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: pillowbear <dogerino@outlook.fr>
 Depends: mobilesubstrate
-Filename: debs//com.pillowbear.favoriteext3nder.deb
-Size: 3092
-MD5sum: d4987ecc89f60be3c5ea24c49f970bf2
-SHA1: 4c0328e0e65b1d1664f55e407eff8c9a07988e91
-SHA256: 42870f0824b518754f352c3f973a58b59b75f4eb7e20e0f5564349969de28dc3
+Filename: debs//com.pillowbear.NotSoRecentlyUsed.deb
+Size: 3114
+MD5sum: f5f6a4e6abea3aedd71462a91dd199f0
+SHA1: ac830a6a49fee43eb17fdc2748187cd3106a9c27
+SHA256: 5507fd3809bd04e5217fe526dc67de9ebd6b5844186ee4deb9e005454745638d
 Section: Tweaks
 Description: Up to 150 recently used emojis !
 Author: pillowbear <dogerino@outlook.fr>
-Depiction: http://decimation.github.io/depic/com.pillowbear.favoriteext3nder/index.html
-Name: FavoriteExt3nder
+Depiction: http://decimation.github.io/depic/com.pillowbear.NotSoRecentlyUsed/index.html
+Name: NotSoRecentlyUsed
